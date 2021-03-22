@@ -1,3 +1,5 @@
+Le code est contenu dans le dossier src -> puis c'est le fichier sketch.ts
+
 # p5 template project
 
 ## Installing
